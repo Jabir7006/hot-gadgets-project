@@ -1,0 +1,43 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+#navbarNav a{
+ color: black;
+}
+.navbar-brand img{
+    width: 120px;
+    height: auto;
+}
+.btn-style{
+    color: white;
+    background: black;
+    border-radius: 5px;
+}
+header{
+    background: url("hot-gadgets/bg-1.png") no-repeat center;
+    padding: 2%;
+}
+.text-muted{
+    font-size: 15px;
+}
+.con-style{
+    margin-top: 100px;
+}
+.card-footer{
+    background: white;
+    border-top: none;
+}
+.card{
+    border: none;
+    padding: 10px 30px;
+    box-shadow: 2px 6px 50px 1px lightgray;
+}
+.row-style{
+ margin-top: 100px;
+ padding-bottom: 100px;
+}
+.box-shadow{
+    padding: 30px;
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;;
+}
